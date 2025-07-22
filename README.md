@@ -1,8 +1,13 @@
 # 🚗 Smart Car Parking System – Project Deep Blue (Mastek)
 
+
+<div align="center" style="margin-bottom:5px">
+
 ![Project Deep Blue Logo](https://deepblue.co.in/wp-content/uploads/2025/02/logo-large.png)  
 **Season 9 | Shortlisted Abstract**  
 **Team from KET’s V. G. Vaze College**
+
+</div>
 
 ---
 
